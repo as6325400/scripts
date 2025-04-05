@@ -9,7 +9,7 @@ This repo will grow over time as more handy tools are added.
 
 | Name        | Description                                |
 |-------------|--------------------------------------------|
-| `gifify.sh` | Convert a video to a high-quality, optimized GIF using ffmpeg |
+| `img2gif/gifify.sh` | Convert a video to a high-quality, optimized GIF using ffmpeg |
 | *(more coming)* | Shell tools, automation, and custom utilities |
 
 ---
