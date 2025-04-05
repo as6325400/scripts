@@ -37,6 +37,14 @@ sudo pacman -S ffmpeg gifsicle
 
 ## 🚀 Usage
 
+
+First, make the script executable:
+
+```bash
+chmod +x gifify.sh
+```
+
+Then run the script with:
 ```bash
 ./gifify.sh path/to/frames/ [output.gif]
 ```
